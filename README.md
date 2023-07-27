@@ -1,23 +1,17 @@
 # Spring_MVC_hibernate_aop
-"Система управления сотрудниками" представляет собой эффективное и интуитивно понятное веб-приложение, разработанное с использованием 
-технологий **Spring MVC, Hibernate и JSP (JavaServer Pages)**. 
+"The Employee Management System" is an efficient and intuitive web application developed using technologies such as **Spring MVC, Hibernate, and JSP (JavaServer Pages)**.
 
-Это мощное инструментальное средство, позволяющее управлять данными о сотрудниках компании, путем добавления новых записей 
-о сотрудниках, а также удаления уже существующих.
+It serves as a powerful tool for managing employee data within a company, enabling the addition of new employee records and the removal of existing ones.
 
-Основные возможности приложения:
+Key features of the application include:
 
-Просмотр списка сотрудников: В интерфейсе приложения отображается удобная таблица, представляющая все доступные данные 
-о сотрудниках. Каждая запись в таблице содержит информацию о имени, фамилии, отделе и зарплате сотрудника.
+Viewing Employee List: The application interface displays a user-friendly table containing all available data about employees. Each entry in the table includes information about the employee's first name, last name, department, and salary.
 
-Добавление сотрудников: Пользователь имеет возможность добавлять новых сотрудников через удобную форму, 
-которая предоставляет поля для ввода имени, фамилии, отдела и зарплаты сотрудника. После заполнения формы, нажатие кнопки "OK" позволяет сохранить данные в базе данных.
+Adding Employees: Users have the ability to add new employees through a convenient form that provides fields for entering the employee's first name, last name, department, and salary. After filling out the form, clicking the "OK" button allows the data to be saved to the database.
 
-Удаление сотрудников: Если вам необходимо удалить данные о сотруднике из системы, вы можете выбрать
-соответствующую запись в таблице сотрудников и нажать кнопку "Delete". Это приведет к удалению информации о сотруднике из базы данных.
+Removing Employees: If you need to delete an employee's data from the system, you can select the corresponding entry in the employee table and click the "Delete" button. This action will remove the employee's information from the database.
 
-Визуальное улучшение: Приложение разработано с упором на простоту использования и хороший пользовательский опыт. Интерфейс оформлен с помощью CSS, придавая приложению современный и эстетичный вид. Кнопки с закругленными краями и приятным цветом 
-обеспечивают яркость и понятность взаимодействия с приложением.
+Visual Enhancement: The application is designed with a focus on user-friendliness and a positive user experience. The interface is styled using CSS to provide a modern and aesthetically pleasing look. The buttons feature rounded corners and pleasant colors, enhancing the overall brightness and clarity of interaction with the application.
 
 
 
