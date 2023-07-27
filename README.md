@@ -20,6 +20,13 @@
 обеспечивают яркость и понятность взаимодействия с приложением.
 
 
+
 ![image](https://github.com/vladislav77777/Spring_MVC_hibernate_aop/assets/88504619/a9bea2fc-bb4a-46ad-a5c5-eddeb79d9a1c)
 ![image](https://github.com/vladislav77777/Spring_MVC_hibernate_aop/assets/88504619/ea08d6c5-f054-459e-bb6c-2ad7907259e7)
 ![image](https://github.com/vladislav77777/Spring_MVC_hibernate_aop/assets/88504619/2781b7c7-8693-433a-a80f-7379abc69e60)
+
+
+
+https://github.com/vladislav77777/Spring_MVC_hibernate_aop/assets/88504619/0704e0f3-49d7-4de3-bd8a-097612d2b16b
+
+
